@@ -38,6 +38,7 @@ Players control the snake with arrow keys, eat food to grow longer, and try to a
 - The score increases with each food item eaten.
 ```
 ---
-This README gives your project a **professional GitHub look** with clear sections: features, technologies, instructions, gameplay, and future improvements.  
+Developed by Mpho
+Passionate about building fun Python projects with Tkinter and exploring creative UI/UX ideas
 
-Do you want me to also add **GitHub badges** (like Python version, license, etc.) at the top to make it more eye‑catching?
+
